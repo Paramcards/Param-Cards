@@ -111,6 +111,8 @@ height: 60px;
 
 .social2{
     border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -164,4 +166,12 @@ margin-top: 10px;
 }
 .sol2{
     gap: 50px;
+}
+
+
+.Powered{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 500;
 }
